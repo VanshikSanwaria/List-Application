@@ -28,7 +28,7 @@ Users can:
 ![Product Detail Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/productdetailview.png)
 
 ### Categories Screen
-[Categories Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/categories.png)
+![Categories Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/categories.png)
 
 ### Cart Screen
 ![Cart Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/cartview.png)
@@ -69,8 +69,6 @@ Users can:
 3. Run the app on a simulator or device.
 4. Explore features like searching, viewing products, and managing the cart.
 
-## Known Issues
-(List any known issues or limitations here, if any.)
 
 ## Future Enhancements
 1. Add persistent cart storage using Core Data.
