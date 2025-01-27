@@ -22,16 +22,19 @@ Users can:
 
 ## Screenshots
 ### Home Screen
-![Home Screen](Screenshots/HomeScreen.png)
+![Home Screen](https://drive.google.com/file/d/11u6D0ECjIRjZ8Clm5ExAQxkb8vUzCLeY/view?usp=sharing)
 
 ### Product Detail Screen
-![Product Detail Screen](Screenshots/ProductDetailScreen.png)
+![Product Detail Screen](https://drive.google.com/file/d/1QZdZnDRok82KseuON2McmIDbwZgoVDpy/view?usp=sharing)
+
+###Categories Screen
+[Categories Screen](https://drive.google.com/file/d/1I7MOL0AuqDZwIMPccDxYqipL2-sDZ0nD/view?usp=sharing)
 
 ### Cart Screen
-![Cart Screen](Screenshots/CartScreen.png)
+![Cart Screen](https://drive.google.com/file/d/1QZdZnDRok82KseuON2McmIDbwZgoVDpy/view?usp=sharing)
 
 ### Shimmer Loader
-![Shimmer Loader](Screenshots/ShimmerLoader.png)
+![Shimmer Loader](https://drive.google.com/file/d/1exfz3hdyQiIMqQ_Fkf7tHOk3CaMpyYfb/view?usp=sharing)
 
 ## API Documentation
 - **Base URL**: `https://fakestoreapi.com`
