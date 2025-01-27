@@ -31,7 +31,7 @@ Users can:
 [Categories Screen](https://drive.google.com/file/d/1I7MOL0AuqDZwIMPccDxYqipL2-sDZ0nD/view?usp=sharing)
 
 ### Cart Screen
-![Cart Screen](https://drive.google.com/file/d/1QZdZnDRok82KseuON2McmIDbwZgoVDpy/view?usp=sharing)
+![Cart Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/cartview.png)
 
 ### Shimmer Loader
 ![Shimmer Loader](https://drive.google.com/file/d/1exfz3hdyQiIMqQ_Fkf7tHOk3CaMpyYfb/view?usp=sharing)
