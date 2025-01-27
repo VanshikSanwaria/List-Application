@@ -21,6 +21,9 @@ Users can:
 5. **Shimmer Effect**: Displays a shimmer loader while data is loading.
 
 ## Screenshots
+### Shimmer Loader
+![Shimmer Loader](https://github.com/VanshikSanwaria/List-Application/blob/main/shimmerloader.png)
+
 ### Home Screen
 ![Home Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/apphomescreen.png)
 
@@ -33,8 +36,6 @@ Users can:
 ### Cart Screen
 ![Cart Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/cartview.png)
 
-### Shimmer Loader
-![Shimmer Loader](https://github.com/VanshikSanwaria/List-Application/blob/main/shimmerloader.png)
 
 ## API Documentation
 - **Base URL**: `https://fakestoreapi.com`
