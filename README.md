@@ -22,19 +22,19 @@ Users can:
 
 ## Screenshots
 ### Home Screen
-![Home Screen](https://drive.google.com/file/d/11u6D0ECjIRjZ8Clm5ExAQxkb8vUzCLeY/view?usp=sharing)
+![Home Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/apphomescreen.png)
 
 ### Product Detail Screen
-![Product Detail Screen](https://drive.google.com/file/d/1QZdZnDRok82KseuON2McmIDbwZgoVDpy/view?usp=sharing)
+![Product Detail Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/productdetailview.png)
 
 ### Categories Screen
-[Categories Screen](https://drive.google.com/file/d/1I7MOL0AuqDZwIMPccDxYqipL2-sDZ0nD/view?usp=sharing)
+[Categories Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/categories.png)
 
 ### Cart Screen
 ![Cart Screen](https://github.com/VanshikSanwaria/List-Application/blob/main/cartview.png)
 
 ### Shimmer Loader
-![Shimmer Loader](https://drive.google.com/file/d/1exfz3hdyQiIMqQ_Fkf7tHOk3CaMpyYfb/view?usp=sharing)
+![Shimmer Loader](https://github.com/VanshikSanwaria/List-Application/blob/main/shimmerloader.png)
 
 ## API Documentation
 - **Base URL**: `https://fakestoreapi.com`
