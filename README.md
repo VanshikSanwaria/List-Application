@@ -27,7 +27,7 @@ Users can:
 ### Product Detail Screen
 ![Product Detail Screen](https://drive.google.com/file/d/1QZdZnDRok82KseuON2McmIDbwZgoVDpy/view?usp=sharing)
 
-###Categories Screen
+### Categories Screen
 [Categories Screen](https://drive.google.com/file/d/1I7MOL0AuqDZwIMPccDxYqipL2-sDZ0nD/view?usp=sharing)
 
 ### Cart Screen
